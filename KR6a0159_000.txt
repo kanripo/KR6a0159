@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 分別功德論
+#+DATE: 2015-08-30 19:33:10.375921
+#+PROPERTY: JUAN 0
