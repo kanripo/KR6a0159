@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:10.078865
+#+DATE: 2015-08-30 19:33:12.498990
 #+TITLE: 分別功德論
 #+PROPERTY: CBETA_ID T25n1507
 #+PROPERTY: ID KR6a0159
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 25, No. 1507
 #+PROPERTY: VOL 25
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6a0159_T_000-0030a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6a0159_T_003-0037c> 
 #+PROPERTY: JUAN 3
 ¶
-
- 《分別功德論》卷第三¶
+《分別功德論》卷第三¶
 ¶
 失譯人名附後漢錄¶
 
@@ -236,7 +235,7 @@
 詐佯不肯。諸臣曰。但作我等當著。即著天冠¶
 王服。咸稱萬歲。左右侍立。如聖王法。阿育¶
 王見其已定。便從外來。曰何如大王。弟見王¶
-慚𧹞莫知所如。阿育王曰。我暫出遊。卿等¶
+慚[赤*皮]莫知所如。阿育王曰。我暫出遊。卿等¶
 云何便作此事。我鐵輪不在那。何乃如此縱¶
 橫耶。我殺汝斯須間耳。即命諸臣。收撿桎¶
 梏。蜜遣信白道人。善念此意。當來救請。¶
